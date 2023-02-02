@@ -16,13 +16,13 @@ nav {
     float: right;
   }
 
-  nav ul li{
-    display: inline-block;
-    margin: 20px;
-    font-size: 35px;
-    font-style: oblique;
-    color: black;
-  }
+    nav ul li {
+        display: inline-block;
+        margin: 20px;
+        font-size: 35px;
+        font-style: oblique;
+        color: black;
+    }
 
   nav ul li a {
     color: rgb(237, 26, 26);

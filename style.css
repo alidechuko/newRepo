@@ -1,0 +1,31 @@
+
+  body {
+    background-color: brown;
+    padding: 0;
+    margin: 0;
+  }
+nav {
+  position: fixed;
+  top: 0 ;
+  left: 0;
+  width: 100%;
+
+ 
+}
+  nav ul {
+    float: right;
+  }
+
+  nav ul li{
+    display: inline-block;
+    margin: 20px;
+    font-size: 35px;
+    font-style: oblique;
+    color: black;
+  }
+
+  nav ul li a {
+    color: rgb(237, 26, 26);
+    text-decoration: solid;
+    text-decoration: double;
+  }
